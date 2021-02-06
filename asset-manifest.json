@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Tindow/static/css/main.c27236b6.chunk.css",
-    "main.js": "/Tindow/static/js/main.d5c579d9.chunk.js",
-    "main.js.map": "/Tindow/static/js/main.d5c579d9.chunk.js.map",
+    "main.css": "/Tindow/static/css/main.039583e7.chunk.css",
+    "main.js": "/Tindow/static/js/main.143a70a1.chunk.js",
+    "main.js.map": "/Tindow/static/js/main.143a70a1.chunk.js.map",
     "runtime-main.js": "/Tindow/static/js/runtime-main.297f77db.js",
     "runtime-main.js.map": "/Tindow/static/js/runtime-main.297f77db.js.map",
     "static/js/2.73d6a4f0.chunk.js": "/Tindow/static/js/2.73d6a4f0.chunk.js",
     "static/js/2.73d6a4f0.chunk.js.map": "/Tindow/static/js/2.73d6a4f0.chunk.js.map",
     "index.html": "/Tindow/index.html",
-    "static/css/main.c27236b6.chunk.css.map": "/Tindow/static/css/main.c27236b6.chunk.css.map",
+    "static/css/main.039583e7.chunk.css.map": "/Tindow/static/css/main.039583e7.chunk.css.map",
     "static/js/2.73d6a4f0.chunk.js.LICENSE.txt": "/Tindow/static/js/2.73d6a4f0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Tindow/static/media/prodimg1.852dd806.png"
   },
   "entrypoints": [
     "static/js/runtime-main.297f77db.js",
     "static/js/2.73d6a4f0.chunk.js",
-    "static/css/main.c27236b6.chunk.css",
-    "static/js/main.d5c579d9.chunk.js"
+    "static/css/main.039583e7.chunk.css",
+    "static/js/main.143a70a1.chunk.js"
   ]
 }
